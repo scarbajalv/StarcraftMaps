@@ -1,10 +1,15 @@
 # Starcraft Maps
-Para descargar todos los mapas haga haga [click al siguiente enlace](https://github.com/scarbajalv/StarcraftMaps/archive/main.zip).
+Para descargar todos los mapas haga [click al siguiente enlace](https://github.com/scarbajalv/StarcraftMaps/archive/main.zip).
 
 ## Actualización automatizada (opcional)
 ⚠️*La forma más fácil de actualizar los últimos cambios de este repositorio es a través de simples comandos de **GIT** pero se requiere tener conocimiento sobre este*.
 
 ### Pasos a seguir
+
+#### Instalación de GIT
+Esto solo deben hacer una vez, ya luego omitir estos pasos. Se comparte el cliente para Windows.
+
+https://git-scm.com/download/win
 
 #### Clonar el repositorio
 Posicionarse en una la carpeta de mapas del juego a través de la consola de windows/linux/mac.
