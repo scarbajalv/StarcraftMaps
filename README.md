@@ -34,8 +34,8 @@ git pull
 
 Nota: no te compliques con esto si te parece muy dificil. Mejor usa el enlace de descarga directo y reemplaza la carpeta de mapas.
 
-# Canales
+## Canales
 - [Canal de YouTube (Cosmo Probe)](https://www.youtube.com/channel/UCZQZZbXgG_Q77_ONH7vWYgg)
 
-# Colaboradores
+## Colaboradores
 - DarkCovid
